@@ -1,5 +1,6 @@
 # analisis-penjualan-produk
 Data Wrangling and SQL — Analisis Penjualan Produk
+
 https://diyouva.medium.com/data-wrangling-and-sql-analisis-penjualan-produk-837e510a24aa
 
 Menganalisis kinerja penjualan dan mengidentifikasi produk unggulan menjadi salah satu cara yang dapat dilakukan untuk mengoptimalkan profit pada produk-produk yang lebih profitable bagi perusahaan.
